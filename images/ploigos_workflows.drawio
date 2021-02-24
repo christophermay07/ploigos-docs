@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-02-24T17:02:36.070Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="Qpn8VMhEnl-2MjIZJc84" version="14.4.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-02-24T17:03:52.834Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36" etag="1pSLvkskPavXZIdzzMMs" version="14.4.2" type="github" pages="3">
   <diagram name="DC OCTO - CI Only" id="_45b7Bff6RFiCjJOIsdj">
     <mxGraphModel dx="2121" dy="703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -439,7 +439,7 @@
             <mxPoint x="1019" y="1030.1" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="t9bWuDZ__dO3w3Bsildr-18" value="Ploigos CI/CD Workflow Steps - Minimum - v1.0.0" style="text;html=1;resizable=1;autosize=0;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Red Hat Text;fontStyle=0;fontSize=30;fontColor=#595959;resizeWidth=0;connectable=0;recursiveResize=0;editable=1;rotatable=0;spacing=0;spacingBottom=-7;movable=1;cloneable=0;imageAspect=0;" parent="t9bWuDZ__dO3w3Bsildr-1" vertex="1">
+        <mxCell id="t9bWuDZ__dO3w3Bsildr-18" value="Ploigos CI/CD Workflow Steps - Dev to Prod" style="text;html=1;resizable=1;autosize=0;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Red Hat Text;fontStyle=0;fontSize=30;fontColor=#595959;resizeWidth=0;connectable=0;recursiveResize=0;editable=1;rotatable=0;spacing=0;spacingBottom=-7;movable=1;cloneable=0;imageAspect=0;" parent="t9bWuDZ__dO3w3Bsildr-1" vertex="1">
           <mxGeometry x="20" width="1060" height="60" as="geometry" />
         </mxCell>
         <mxCell id="t9bWuDZ__dO3w3Bsildr-19" value="" style="group;rounded=0;labelBackgroundColor=#ffffff;strokeColor=none;strokeWidth=2;fillColor=none;fontFamily=Red Hat Text;fontSize=11;fontColor=#4C4C4C;align=right;html=1;" parent="t9bWuDZ__dO3w3Bsildr-1" vertex="1" connectable="0">
@@ -1116,7 +1116,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VNM-6ivC_zGJMZQj9W_r-34" value="Ploigos CI/CD Workflow Steps - Standard - Planned" style="text;html=1;resizable=1;autosize=0;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Red Hat Text;fontStyle=0;fontSize=30;fontColor=#595959;resizeWidth=0;connectable=0;recursiveResize=0;editable=1;rotatable=0;spacing=0;spacingBottom=-7;movable=1;cloneable=0;imageAspect=0;" parent="VNM-6ivC_zGJMZQj9W_r-1" vertex="1">
+        <mxCell id="VNM-6ivC_zGJMZQj9W_r-34" value="Full CI/CD Workflow" style="text;html=1;resizable=1;autosize=0;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;fontFamily=Red Hat Text;fontStyle=0;fontSize=30;fontColor=#595959;resizeWidth=0;connectable=0;recursiveResize=0;editable=1;rotatable=0;spacing=0;spacingBottom=-7;movable=1;cloneable=0;imageAspect=0;" parent="VNM-6ivC_zGJMZQj9W_r-1" vertex="1">
           <mxGeometry x="20" width="1060" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VNM-6ivC_zGJMZQj9W_r-35" value="" style="group;rounded=0;labelBackgroundColor=#ffffff;strokeColor=none;strokeWidth=2;fillColor=none;fontFamily=Red Hat Text;fontSize=11;fontColor=#4C4C4C;align=right;html=1;" parent="VNM-6ivC_zGJMZQj9W_r-1" vertex="1" connectable="0">
